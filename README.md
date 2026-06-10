@@ -53,25 +53,25 @@ Other categories present in the original dataset were excluded from the study.
 ## Project Workflow
 
 Dataset
-↓
+
 Data Cleaning
-↓
+
 Text Preprocessing
-↓
+
 Stopword Removal
-↓
+
 Label Encoding
-↓
+
 Train-Test Split
-↓
+
 TF-IDF Vectorization
-↓
+
 Logistic Regression Training
-↓
+
 Model Evaluation
-↓
+
 Prediction
-↓
+
 Model Saving
 
 ---
@@ -177,19 +177,6 @@ These files allow predictions without retraining the model.
 
 ---
 
-## Project Structure
-
-Mental-Health-Text-Classification/
-
-├── Mental_Health_Classification.ipynb
-├── dataset.xlsx
-├── model.pkl
-├── tfidf.pkl
-├── label_encoder.pkl
-├── requirements.txt
-└── README.md
-
----
 
 ## Future Improvements
 
